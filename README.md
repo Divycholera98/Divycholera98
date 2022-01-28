@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divycholera98
-- 👀 I’m interested in compitative coding
-- 🌱 I’m currently learning c and c++
+- 👀 I’m interested in web developement and compitative coding
+- 🌱 I’m currently learning  javascript and node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me divycholera200@gmail.com 
 
