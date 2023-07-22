@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Divycholera98
-- 👀 I’m interested in web developement and compitative coding
-- 🌱 I’m currently learning  javascript and node.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me choleradivy@gmail.com
 
 <!---
